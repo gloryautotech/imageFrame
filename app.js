@@ -4,8 +4,8 @@ var imgInFrame;
 var frameSrcArray = [
   'url("https://d29mtkonxnc5fw.cloudfront.net/site_assets/black-frame-face17.jpg") 100 round',
   'url("https://d29mtkonxnc5fw.cloudfront.net/site_assets/natural-walnut-face2-darker.jpg") 100 round',
-  'url("frm2.jpg") 150 round',
-  'url("frm1.jpg") 150 round'
+  'url("images/frm2.jpg") 150 round',
+  'url("images/frm1.jpg") 150 round'
 ];
 
 
